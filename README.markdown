@@ -6,7 +6,9 @@ You’ll find the following playgrounds here:
 
 * **1-Playgrounds**: Completed playground from part 1 of the workshop covering playgrounds. This is also the starter playground for part 2.
 
-* **2-Safety**: Completed playground from part 2 of the workshop covering safety.
+* **2a-Safety**: Completed playground from part 2 of the workshop covering safety on formerly stringly-typed parameters.
+
+* **2b-Safety**: Completed playground from part 2 of the workshop covering closure capture.
 
 * **3-Classes**: Completed playground from part 3 of the workshop covering classes & Cocoa.
 
