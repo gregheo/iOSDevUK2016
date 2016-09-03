@@ -10,7 +10,9 @@ You’ll find the following playgrounds here:
 
 * **2b-Safety**: Completed playground from part 2 of the workshop covering closure capture.
 
-* **3-Classes**: Completed playground from part 3 of the workshop covering classes & Cocoa.
+* **3a-Classes**: Completed playground from part 3 of the workshop covering the class-based Core Graphics API.
+
+* **3b-Classes**: Completed playground from part 3 of the workshop covering the class-based Grand Central Dispatch API.
 
 * **Intermediate-Swift**: A playground with notes and code mixed together summarizing what was covered in the workshop. Makes a good memory refresher for the future!
 
